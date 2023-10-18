@@ -5,9 +5,9 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PoddCollectorG26", "PoddCollectorG26.csproj", "{B2249A97-5F21-46BD-BE1F-78952E5F58D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL", "..\BL\BL.csproj", "{C5CEC6C2-F748-4886-9121-A2EB48F34135}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BL", "..\BL\BL.csproj", "{C5CEC6C2-F748-4886-9121-A2EB48F34135}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "..\DAL\DAL.csproj", "{6F20A2FD-737C-48C8-9FAB-EA71ECBB0356}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAL", "..\DAL\DAL.csproj", "{6F20A2FD-737C-48C8-9FAB-EA71ECBB0356}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
